@@ -1,3 +1,5 @@
 this is the 1st line--master
 this is the 2nd line by B1
 3rd line by --master
+[master d1bf77b] 3rd line added
+ 1 file changed, 2 insertions(+), 2 deletions(-)
